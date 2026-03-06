@@ -1,0 +1,7 @@
+target/
+crm_data.json
+*.class
+.classpath
+.project
+.settings/
+.vscode/
