@@ -1,3 +1,5 @@
+[Leia em Português (Brasil)](README-pt-br.md)
+
 # 🎯 CRM Pipeline
 
 A professional **Sales Pipeline Management** desktop application built with **JavaFX**, featuring a fully interactive Kanban board with drag-and-drop, real-time statistics, persistent data storage, and a sleek dark UI.
